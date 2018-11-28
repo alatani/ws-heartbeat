@@ -1,0 +1,28 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "cca96dc98ec3aa340bd572ae51a02e797ad7beef2c3213d5a57d0d2945906310"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "websocket-server": {
+            "hashes": [
+                "sha256:91cd4b565d1e1b00ef107abcb2840a8090868b19543f3b38e1962d5f975d0c04"
+            ],
+            "index": "pypi",
+            "version": "==0.4"
+        }
+    },
+    "develop": {}
+}
